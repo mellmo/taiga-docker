@@ -2,6 +2,10 @@ small change to make a PR for testing purposes
 
 another change to trigger checks
 
+## RANDOM HEADING LEVEL
+##### TO TRIGGER
+# THE LINTER
+
 [![Stories in Ready](https://badge.waffle.io/ipedrazas/taiga-docker.png?label=ready&title=Ready)](https://waffle.io/ipedrazas/taiga-docker)
 # taiga-docker
 
